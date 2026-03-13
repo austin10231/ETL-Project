@@ -1,8 +1,7 @@
-# ETL-Project
+# ETL Project
 
+This repository contains multiple **ETL (Extract, Transform, Load) projects** built for data engineering and data analysis practice.
 
-This repository contains a collection of **ETL (Extract, Transform, Load) projects** focused on data cleaning, transformation, and analysis.
+Each project focuses on collecting raw data, cleaning and transforming it, and generating insights using **SQL, Python, and data processing tools**.
 
-The projects demonstrate practical workflows using **SQL, Python, and data engineering tools** to process and analyze real-world datasets.
-
-Each folder represents a separate ETL project with its own scripts, queries, and documentation.
+Every folder represents an individual ETL workflow with its own data processing and analysis pipeline.
